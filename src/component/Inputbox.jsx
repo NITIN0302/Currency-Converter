@@ -1,5 +1,4 @@
 import React from "react";
-import "./Inputbox.css";
 
 const Inputbox = ({
   label,
