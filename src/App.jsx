@@ -57,6 +57,7 @@ function App() {
               setAmount(amount);
             }}
             selectCurrency={to}
+            amountDisable={true}
           />
           <button
             className="text-white w-[60%] px-2 mb-1 bg-blue-700 rounded-xl border-1 border-white"
